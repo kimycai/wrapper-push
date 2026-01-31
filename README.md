@@ -1,1 +1,1 @@
-[# wrapper-push，](https://github.com/kimycai/WorldObservation-wrapper/blob/main/.github/workflows/wrapper-push.yml)
+由此处推送而来：(https://github.com/kimycai/WorldObservation-wrapper/blob/main/.github/workflows/wrapper-push.yml)
